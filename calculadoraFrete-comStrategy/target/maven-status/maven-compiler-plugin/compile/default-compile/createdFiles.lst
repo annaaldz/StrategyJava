@@ -1,0 +1,7 @@
+com\mycompany\calculadorafrete\comstrategy\Frete.class
+com\mycompany\calculadorafrete\comstrategy\TipoFrete$1.class
+com\mycompany\calculadorafrete\comstrategy\CalculadoraFreteComStrategy.class
+com\mycompany\calculadorafrete\comstrategy\TipoFrete$2.class
+com\mycompany\calculadorafrete\comstrategy\frete\Sedex.class
+com\mycompany\calculadorafrete\comstrategy\TipoFrete.class
+com\mycompany\calculadorafrete\comstrategy\frete\Pac.class
