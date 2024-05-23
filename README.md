@@ -1,1 +1,1 @@
-# Exercises using design patterns
+# Exercise using strategy
